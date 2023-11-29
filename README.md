@@ -12,9 +12,9 @@ Este projeto simula uma demanda da empresa Airbnb. Ele responde a várias pergun
 
 Este projeto requer Python e as seguintes bibliotecas Python instaladas:
 
-- Pandas
-- Numpy
-- Folium
+- Pandas: [link para a documentação](https://pandas.pydata.org/)
+- Numpy: [link para a documentação](https://numpy.org/)
+- Folium [link para a documentação](https://python-visualization.github.io/folium/latest/)
 
 Você também precisará ter software instalado para rodar e executar um Jupyter Notebook.
 
